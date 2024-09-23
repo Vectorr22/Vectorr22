@@ -18,7 +18,7 @@
 
 <br>
 
-- A passionate mobile developer
+- A passionate eladio carrion fan
 - Currently focusing on Android!
 - Student at Instituto Tecnológico de la Laguna
 - I’m currently open for an Intern or a new job opportunity
