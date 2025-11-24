@@ -19,7 +19,7 @@
 <br>
 
 - A passionate mobile developer
-- Currently focusing on Android!
+- Mainly focused on native development (Android/iOS)
 - Studied at Instituto Tecnológico de la Laguna
 - Open for Mobile Job Opportunities
 
