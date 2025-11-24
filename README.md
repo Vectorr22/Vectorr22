@@ -20,8 +20,8 @@
 
 - A passionate mobile developer
 - Currently focusing on Android!
-- Student at Instituto Tecnológico de la Laguna
-- I’m currently open for an Intern or a new job opportunity
+- Studied at Instituto Tecnológico de la Laguna
+- Open for Mobile Job Opportunities
 
 <br><br>
 
